@@ -1,0 +1,28 @@
+{
+    "name": "AMDrangyinputs",
+    "title": "Rangy Inputs",
+    "description": "Dojo/AMD module for selection and caret manipulation within textareas and text inputs.",
+    "keywords": [
+        "caret",
+        "textarea",
+        "input",
+        "textrange",
+        "selection",
+        "field",
+        "cursor"
+    ],
+    "version": "1.0",
+    "author": {
+        "name": "Ryan Davison",
+        "email": "ryan.davison@mesacounty.us",
+        "url": "http://gis.mesacounty.us"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "homepage": "https://github.com/MesaCountyGIS/rangyinputs",
+    "docs": "https://github.com/MesaCountyGIS/rangyinputs"
+}
