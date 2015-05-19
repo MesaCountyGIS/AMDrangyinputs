@@ -1,4 +1,4 @@
-Rangy Inputs
+AMD Rangy Inputs
 ============
 
 A small Dojo/AMD module for selection and caret manipulation within textareas and text inputs.
